@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/771.c3274883.chunk.js","mappings":"yMAUA,UARc,WACZ,OACEA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,SAIT,C","sources":["views/Admin/Index.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst Index = () => {\r\n  return (\r\n    <div>\r\n      Admin\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default Index"],"names":["_jsx","children"],"sourceRoot":""}

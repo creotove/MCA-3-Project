@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[771],{56771:function(e,r,c){c.r(r);c(72791);var i=c(80184);r.default=function(){return(0,i.jsx)("div",{children:"Admin"})}}}]);
+//# sourceMappingURL=771.c3274883.chunk.js.map
